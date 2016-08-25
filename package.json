@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-closedinterval",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Stylelint preset for ClosedInterval",
   "main": "index.js",
   "scripts": {
