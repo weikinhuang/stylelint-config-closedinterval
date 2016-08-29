@@ -3,16 +3,13 @@
   "version": "1.0.0",
   "description": "Stylelint preset for ClosedInterval",
   "main": "index.js",
-  "scripts": {
-    "prepublish": "bash util/prepublish.sh"
-  },
   "repository": {
     "type": "git",
-    "url": "ssh://git@git.weikinhuang.com:8722/closedinterval/stylelint-config.git"
+    "url": "https://github.com/weikinhuang/stylelint-config-closedinterval.git"
   },
   "author": "Wei Kin Huang",
   "license": "MIT",
-  "homepage": "https://git.weikinhuang.com/closedinterval/stylelint-config",
+  "homepage": "https://github.com/weikinhuang/stylelint-config-closedinterval",
   "engines": {
     "npm": ">=3.0.0"
   },
